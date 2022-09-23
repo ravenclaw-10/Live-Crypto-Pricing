@@ -1,0 +1,33 @@
+body{
+  margin:0px;
+}
+
+
+.coin-search{
+  background:url('./../resources/bg-img.jpg');
+  display:block;
+  width:100%;
+  padding:20px 0px 60px 0px;
+  margin:0px auto;
+}
+
+.coin-text{
+  font-family:'Courgette', 'cursive';
+  font-weight: 900;
+  font-size:300%;
+  display:block;
+  margin:auto;
+  width:30%;
+  padding:5%;
+}
+
+.coin-input{
+  display:block;
+  margin:auto;
+  width:40%;
+  padding:10px;
+}
+
+h1{
+  margin:0px;
+}
